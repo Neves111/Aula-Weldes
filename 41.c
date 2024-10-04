@@ -19,7 +19,7 @@ for (i = 0; i < 3; i++){
 
 for (i = 0; i < 3; i++){
     for (j = 0; j < 3; j++){
-        printf("%d", matriz [i][j] * k);
+        printf("%d ", matriz [i][j] * k);
     }
     printf("\n");
 }
