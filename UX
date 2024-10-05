@@ -1,0 +1,36 @@
+guide lines
+
+nilsen norman group.com
+Ajuda a avaliar o design de interface e identifica falhas de design
+1 - Visibilidade do Status: Sistema deve dar feedback sobre as ações e efetividade do usuário e indicações / mostra de adição no carrinho de compras
+2 - Compatibiliade entre sistema e mundo real: Linguagem fácil e de fácil entendimento, ao invés de usar termos técnicos, uso de elementos familiares - envelope e-mail
+3 - Controle e liberdade do usuário: Usuário ter chance de fazer tudo, porém ter a possibilidade de reverter uma ação - restaurar item da lixeira
+4 - Consistência e padronização: Manter o padrão entre as páginas de um mesmo sistema, evitar confusão do usuário - botão de adicionar carrinho
+5 - Prevenção de erro: previnir o usuário de cometer erro - página de confirmar ação, salvar arquivo
+6 - Reconhecimento em vez de lembrança: Dar dicas sobre as ações feitas - exibir lista de itens do carrinho e detalhes como preço
+7 - Flexibilidade e eficiência de uso: Proporcionar rapidez nas ações, personalizar ações frequentes, tuor sobre o site, usar atalhos
+8 - Estética e Design minimalista: Interface simples, sem ifromações irrelevantes
+9 - Ajude a rechonhecer, diagnosticar e corrigir erros: exibir mensagens de erro, indicar precisamente o problema e sugerir solução. 
+10 - Ajuda e documentação: FAQ, tutoriais, fução de chat, documentação
+
+Avaliação empírica e analítica de usabilidade
+Dividir as avaliações em dois tipos: analítica e empírica
+Analítica: avaliação heurística e percurso cognitivo
+Empírica: teste de usabilidade através do usuário padrão
+
+Acessibilidade
+Democratizar o acesso e uso da internet
+Garantir entendimento e controle da navegação dos usuários aos conteúdos disponíveis, independente de suas limitações
+Evitar uso de pop-up 
+Multimída: Deve fornecer trilhas de áudio e legenda para vídeos, versões alternativas em HTML, descrição de imagem
+Programas Leitores de Tela
+Analise de contraste
+Visualização em letras grandes
+
+Ler as diretrizes - https://www.w3.org/WAI/translations/#portugus-do-brasil-brazilian-portuguese
+
+Extensões de acessibilidade
+let's get color blind
+axe devtools
+color blind - dalton for google chrome
+web developer
